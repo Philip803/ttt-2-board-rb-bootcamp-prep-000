@@ -1,2 +1,2 @@
 board = ""
-array = [board ]
+array = [board,board,board,board,board,board,board,board,board ]
